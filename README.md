@@ -16,5 +16,5 @@ seaborn: Statistical data visualization.
 
 scikit-learn: Machine learning tools for model training, evaluation, and preprocessing.
 
-Make sure to have the above libaries installed:
-pip install pandas numpy matplotlib seaborn scikit-learn
+Make sure to have the below libaries installed:
+pandas,numpy, matplotlib, seaborn, scikit-learn
