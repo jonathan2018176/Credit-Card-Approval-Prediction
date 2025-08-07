@@ -1,20 +1,28 @@
-# Credit-Card-Approval-Prediction
+# Credit Card Approval Prediction
 
+This project uses a logistic regression model to predict credit card application approvals based on applicant features. It covers the full data science workflow including preprocessing, feature engineering, model training, evaluation, and visualization.
 
-This project demonstrates the process of predicting credit card approval using a Logistic Regression model. It includes steps for data preprocessing, model training, evaluation, and visualization using Python libraries like pandas, numpy, matplotlib, scikit-learn, and seaborn. The goal is to predict whether a credit card application will be approved based on certain features. The dataset is provided by UCI Machine Learning Repository.
+### 🛠 Tools & Technologies
+- **Python**
+- **NumPy** – for numerical computing and array operations  
+- **Pandas** – for data manipulation and analysis  
+- **Matplotlib** – for plotting and visualization  
+- **Seaborn** – for statistical data visualization  
+- **Scikit-learn** – for model training, evaluation, and preprocessing
 
+### 💡 Features
+- Cleaned and preprocessed raw application data  
+- Engineered features using encoding, scaling, and imputation techniques  
+- Trained a logistic regression model to classify approvals  
+- Evaluated model performance using precision, recall, and F1-score  
+- Visualized feature importance and key approval drivers
 
-The following libraries are used in this project:
+### 📈 Use Cases
+- Understand key factors that influence credit card approval  
+- Apply model outputs to assist in risk-based decision making  
+- Demonstrate end-to-end ML workflow from raw data to insights
 
-pandas: Data manipulation and analysis.
+---
 
-numpy: Numerical computing and array operations.
-
-matplotlib: Plotting and visualization.
-
-seaborn: Statistical data visualization.
-
-scikit-learn: Machine learning tools for model training, evaluation, and preprocessing.
-
-Make sure to have the below libaries installed:
-pandas,numpy, matplotlib, seaborn, scikit-learn
+Make sure to have the following libraries installed:  
+`pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
